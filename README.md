@@ -1,6 +1,6 @@
 ## Queue Compressor Bot (For Single Users)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhranta5/sailaja)
 
 ### Variables
 `APP_ID` `API_HASH` `BOT_TOKEN`
